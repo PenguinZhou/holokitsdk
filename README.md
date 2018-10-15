@@ -1,3 +1,6 @@
+## My [ppt](https://hkustconnect-my.sharepoint.com/:p:/g/personal/zpengab_connect_ust_hk/EachNMCy2khGgU4aHa19ZJ4B1S6RNZnmdoNNRwDb2xDKig?e=0If1Df) about the basic tutorial of HoloKit in a university [HCI course](https://www.cse.ust.hk/~mxj/page/COMP4461-201809.html). 
+
+
 # HoloKitSDK v1.5 (Branch)
 
 HoloKitSDK is the Unity plugins to build AR/MR apps for HoloKit. 
